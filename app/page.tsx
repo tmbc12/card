@@ -1,4 +1,4 @@
-// pages/index.tsx
+// pages/index.tsxn
 import React from 'react';
 import SearchKurtis from '../components/SearchKurtis';
 
